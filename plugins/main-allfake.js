@@ -75,8 +75,8 @@ global.waitttt = '❍ Espera un momento, soy lento...';
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'  
 let canal2 = 'https://whatsapp.com/channel/0029Vb8LAWuAYlUTheJN5J0R'
-var git = 'https://github.com/willzek-oficial'
-var github = 'https://github.com/willzek-oficial/crowbot' 
+var git = 'https://github.com/willzekoficial'
+var github = 'https://github.com/willzekoficial/CROWBOT-ST' 
 let correo = 'seishironagi.rukasproyect@gmail.com'
 
 global.redes = [canal, canal2, git, github, correo].getRandom()
@@ -101,7 +101,7 @@ global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
-global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\nᰔᩚ Usuario: ${nombre}\n❀ Bot: ${botname}\n✦ Fecha: ${fecha}\nⴵ Hora: ${tiempo}`;
+global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\nᰔᩚ Usuario: ${nombre}\n❀ Bot: ${botname}\n✦ Fecha: ${fecha}\n`;
 global.packsticker2 = `\n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\n${dev}`
 
 //Fakes
