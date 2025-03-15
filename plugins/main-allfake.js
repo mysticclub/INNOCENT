@@ -40,7 +40,7 @@ global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => '
 
 //Ids channel
 global.canalIdM = ["120363407799526075@newsletter"]
-global.canalNombreM = ["ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★"]
+global.canalNombreM = ["⚒⚔INNOCENT ZERO⚔UPDATES⚒"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -67,10 +67,10 @@ global.emoji5 = '✰'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '❍ Espera un momento, soy lenta...';
-global.waitt = '❍ Espera un momento, soy lenta...';
-global.waittt = '❍ Espera un momento, soy lenta...';
-global.waitttt = '❍ Espera un momento, soy lenta...';
+global.wait = '❍ Espera un momento, soy lento...';
+global.waitt = '❍ Espera un momento, soy lento...';
+global.waittt = '❍ Espera un momento, soy lento...';
+global.waitttt = '❍ Espera un momento, soy lento...';
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'  
