@@ -43,21 +43,21 @@ global.baileys = 'V 6.7.13'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = '♰⚔ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ'
-global.namebot = '♰⚔ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ'
+global.nameqr = '♰⚒⚔INNOCENT ZERO⚔⚒ੌ'
+global.namebot = '♰⚒⚔INNOCENT ZERO⚔⚒'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '♰⚔ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ'
-global.botname = '♰⚔ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ'
-global.wm = 'ৎ୭࠭͢ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ𓆪͟͞ '
-global.author = '⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
+global.packname = '⚒⚔INNOCENT ZERO⚔⚒'
+global.botname = '♰⚒⚔INNOCENT ZERO⚔⚒'
+global.wm = 'ৎ୭࠭͢⚒⚔INNOCENT ZERO⚔⚒ᬁੌ𓆪͟͞ '
+global.author = '⍴᥆ᥕᥱrᥱძ ᑲᥡ SEƗSĦƗRO⚔ṈȺGƗ.il'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ SEƗSĦƗRO⚔ṈȺGƗ.il'
-global.textbot = '♰⚔ÄĻŸÄ Ö₣ÏĊÏÄĻ 乂❤ᬁੌ• Powered By ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
-global.etiqueta = '⍴᥆ᥕᥱrᥱძ ᑲᥡ ᵀᵉᵃᵐ★༺Leͥgeͣnͫd༻ᴳᵒᵈ★'
+global.textbot = '♰⚒⚔INNOCENT ZERO⚔⚒ᬁੌ• Powered By SEƗSĦƗRO⚔ṈȺGƗ.il★'
+global.etiqueta = '⍴᥆ᥕᥱrᥱძ ᑲᥡ SEƗSĦƗRO⚔ṈȺGƗ.il'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
