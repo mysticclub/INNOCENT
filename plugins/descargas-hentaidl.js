@@ -35,7 +35,7 @@ let handler = async (m, { conn, text, args, setting }) => {
           externalAdReply: {
             title: videoInfo.title,
             body: "Descargar video",
-            thumbnail: imagen1,
+            thumbnail: thumbnailUrl: icono,
             sourceUrl: text,
             mediaType: 1,
             renderLargerThumbnail: true
@@ -64,7 +64,7 @@ let handler = async (m, { conn, text, args, setting }) => {
           externalAdReply: {
             title: "Resultados de búsqueda",
             body: "Veohentai",
-            thumbnail: icon,
+            thumbnail: thumbnailUrl: icono,
             sourceUrl: redes,
             mediaType: 1,
             renderLargerThumbnail: true
