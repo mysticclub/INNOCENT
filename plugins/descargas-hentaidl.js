@@ -64,7 +64,7 @@ let handler = async (m, { conn, text, args, setting }) => {
           externalAdReply: {
             title: "Resultados de búsqueda",
             body: "Veohentai",
-            thumbnail: icono,
+            thumbnail: imagen1,
             sourceUrl: redes,
             mediaType: 1,
             renderLargerThumbnail: true
@@ -171,4 +171,4 @@ async function size(url) {
   } catch (err) {
     return 'Error: ' + err.message;
   }
-} 
+}
