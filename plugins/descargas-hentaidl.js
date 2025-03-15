@@ -64,7 +64,7 @@ let handler = async (m, { conn, text, args, setting }) => {
           externalAdReply: {
             title: "Resultados de búsqueda",
             body: "Veohentai",
-            thumbnail: imagen1,
+            thumbnail: icon,
             sourceUrl: redes,
             mediaType: 1,
             renderLargerThumbnail: true
